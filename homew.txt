@@ -1,0 +1,10 @@
+Thu Apr 13 15:41:53 UTC 2023
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p1   20G  9.1G   11G  46% /
+  997  date > homew.txt
+  998  cat homew.txt
+  999  df -h / >> homew.txt
+ 1000  cat homew.txt
+ 1001  history | tail -n 5 >> homew.txt
+vendor_id	: AuthenticAMD
+121
